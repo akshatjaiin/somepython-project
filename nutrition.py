@@ -1,7 +1,7 @@
 def main():
     fruit = input("Item: ").title().strip()
     if nut(fruit) == "":
-        print()
+        print("item not found")
     else:
         print(f"Calories: {nut(fruit)}")
 
