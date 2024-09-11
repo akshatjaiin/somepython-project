@@ -37,3 +37,6 @@ bash
 Do you want to roll a dice? [Y/N] Y
 What dice do you want to roll? [4/6/8/10/12/20/100] 20
 17
+![image](https://github.com/user-attachments/assets/fc8de0a8-57ae-4bd4-9cc7-ce38215fc827)
+![image](https://github.com/user-attachments/assets/0af17862-ccdf-48bc-b495-664b89bf2f5e)
+
